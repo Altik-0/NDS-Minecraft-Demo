@@ -1,0 +1,20 @@
+# Ignore build products
+*.o
+*.a
+*.elf
+*.nds
+*.exe
+
+# Ignore VS generated files
+*.sln
+*.sdf
+*.suo
+*.vcxproj*
+*.opensdf
+
+# Ignore various other weird files
+
+
+# Ignore all files in the build directories
+DS_minecraftDemo/build/
+
