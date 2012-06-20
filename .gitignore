@@ -4,6 +4,7 @@
 *.elf
 *.nds
 *.exe
+*.arm9
 
 # Ignore VS generated files
 *.sln
@@ -17,4 +18,5 @@
 
 # Ignore all files in the build directories
 DS_minecraftDemo/build/
+DS_minecraftDemo/Debug/
 
